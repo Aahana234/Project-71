@@ -119,6 +119,6 @@ const styles = StyleSheet.create({
       textAlign: 'center',
       color: 'white',
       fontWeight: 'bold',
-      color:'black',
+     
   }
 });
